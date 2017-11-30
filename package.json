@@ -1,0 +1,15 @@
+{
+  "name": "kafka-producer",
+  "version": "1.0.0",
+  "description": "Produce feed for kafka in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liuben",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "node-rdkafka": "^2.2.1"
+  }
+}
